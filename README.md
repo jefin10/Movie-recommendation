@@ -19,3 +19,4 @@ The following packages are necessary for the project to function correctly:
     ```bash
     pip install pandas scikit-learn numpy
     ```
+## Clone the rep and try to run it in your pc
